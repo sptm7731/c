@@ -4,7 +4,7 @@
 #include<stdio.h>
 void main()
 {
-    float expenses[13];
+    float expenses[12];
     int n;
     for(n=0;n<12;n++)
     {
